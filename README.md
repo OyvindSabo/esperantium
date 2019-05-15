@@ -1,4 +1,4 @@
-# esperantium
+# Esperantium
 Documentation for esperantium.com
 
 ## Dictionary settings
