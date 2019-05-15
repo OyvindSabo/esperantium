@@ -8,3 +8,7 @@ https://displayposts.com/docs/parameters/
 ## Color palette
 The website uses the Flat UI Palette v1 from Flat UI Colors 2.\
 https://flatuicolors.com/palette/defo
+
+## Icons
+The website uses icons from Freepik.\
+https://www.freepik.com/
