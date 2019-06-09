@@ -1,5 +1,5 @@
 # Esperantium
-Documentation for esperantium.com
+Documentation for https://esperantium.com
 
 ## Dictionary settings
 The dictionary uses the Display Posts plugin to configure how the dictionary will be ordered.\
